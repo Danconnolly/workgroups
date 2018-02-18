@@ -14,6 +14,9 @@ Developer Participants:
  * Amaury Sechét of Bitcoin ABC
  * Steve Shadders of nChain
  * Andrew Stone of Bitcoin Unlimited
+ * Andrea Suisani of Bitcoin Unlimited
+ * Jason B Cox
+ * Joshua Yabut
  * *more*
 
 # Discussion Topic
